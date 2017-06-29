@@ -23,4 +23,4 @@ for all trees
 ```
 By only scanning from the currently highest seen IDX, we avoid the n^2 behaviour of scanning from currentIdx -> maxAngle
 
-the main logic is contained withing io.highlylikely.camera.CameraController
+the main logic is contained within the CameraController class
